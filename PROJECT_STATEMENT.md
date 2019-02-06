@@ -1,0 +1,2 @@
+### This project was completed successfully along my masters degree.
+#### This project is focussed on exploring the million songs dataset which contains variety of information regarding the songs across the globe. The dataset is basically of H5F5 format, which is different from the usual Pandas format. It contains multiple datasets as key-value pairs in which each key is an individual dataset and values are the features of that particular dataset.
